@@ -1,6 +1,6 @@
 # book
 
-A book app with firebase, ads on screen and purchase.
+A book app with firebase, ads on screen and purchase. [Demo](https://play.google.com/store/apps/details?id=com.snowboxs.lstg_cua_nguoi_nhat)
 
 ## Getting Started
 
