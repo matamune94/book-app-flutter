@@ -34,35 +34,6 @@
           ]
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:443126532686:android:50632f93776e49f3ee111f",
-        "android_client_info": {
-          "package_name": "com.snowboxs.yahuu"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "443126532686-2p9qjnhk6oogji1m9cknd5fbntufrivn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBOvabm7fIRQEjBZC6bGk1TE4mvoH6xNnA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "443126532686-2p9qjnhk6oogji1m9cknd5fbntufrivn.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
     }
   ],
   "configuration_version": "1"
